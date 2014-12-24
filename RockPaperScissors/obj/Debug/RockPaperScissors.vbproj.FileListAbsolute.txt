@@ -1,0 +1,37 @@
+C:\Documents and Settings\Alan\Desktop\Allans Programming\Visual Basic\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+C:\Documents and Settings\Alan\Desktop\Allans Programming\Visual Basic\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+C:\Documents and Settings\Alan\Desktop\Allans Programming\Visual Basic\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.xml
+C:\Documents and Settings\Alan\Desktop\Allans Programming\Visual Basic\RockPaperScissors\RockPaperScissors\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Alan\Desktop\Allans Programming\Visual Basic\RockPaperScissors\RockPaperScissors\obj\Debug\WindowsApplication1.Form1.resources
+C:\Documents and Settings\Alan\Desktop\Allans Programming\Visual Basic\RockPaperScissors\RockPaperScissors\obj\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Alan\Desktop\Allans Programming\Visual Basic\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Alan\Desktop\Allans Programming\Visual Basic\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.exe
+C:\Documents and Settings\Alan\Desktop\Allans Programming\Visual Basic\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.xml
+C:\Documents and Settings\Alan\Desktop\Allans Programming\Visual Basic\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.pdb
+C:\Documents and Settings\Alan\Desktop\Allans Programming\Visual Basic\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe.config
+C:\Users\Alan\Desktop\Allans Programming\Visual Basic\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe.config
+C:\Users\Alan\Desktop\Allans Programming\Visual Basic\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.exe
+C:\Users\Alan\Desktop\Allans Programming\Visual Basic\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.xml
+C:\Users\Alan\Desktop\Allans Programming\Visual Basic\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.pdb
+C:\Users\Alan\Desktop\Allans Programming\Visual Basic\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+C:\Users\Alan\Desktop\Allans Programming\Visual Basic\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+C:\Users\Alan\Desktop\Allans Programming\Visual Basic\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.xml
+C:\Users\Alan\Desktop\Allans Programming\Visual Basic\RockPaperScissors\RockPaperScissors\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alan\Desktop\Allans Programming\Visual Basic\RockPaperScissors\RockPaperScissors\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Alan\Desktop\Allans Programming\Visual Basic\RockPaperScissors\RockPaperScissors\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Alan\Desktop\Allans Programming\Visual Basic\RockPaperScissors\RockPaperScissors\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Alan\Desktop\Allans Programming\Visual Basic\RockPaperScissors\RockPaperScissors\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Alan\Desktop\Allans Programming\Games Indev\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe.config
+C:\Users\Alan\Desktop\Allans Programming\Games Indev\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.exe
+C:\Users\Alan\Desktop\Allans Programming\Games Indev\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.xml
+C:\Users\Alan\Desktop\Allans Programming\Games Indev\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.pdb
+C:\Users\Alan\Desktop\Allans Programming\Games Indev\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+C:\Users\Alan\Desktop\Allans Programming\Games Indev\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+C:\Users\Alan\Desktop\Allans Programming\Games Indev\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.xml
+C:\Users\Alan\Desktop\Allans Programming\Games Indev\RockPaperScissors\RockPaperScissors\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alan\Desktop\Allans Programming\Games Indev\RockPaperScissors\RockPaperScissors\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Alan\Desktop\Allans Programming\Games Indev\RockPaperScissors\RockPaperScissors\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Alan\Desktop\Allans Programming\Games Indev\RockPaperScissors\RockPaperScissors\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Alan\Desktop\Allans Programming\Games Indev\RockPaperScissors\RockPaperScissors\obj\Debug\WindowsApplication1.Game.resources
+C:\Users\Alan\Desktop\Allans Programming\Games Indev\RockPaperScissors\RockPaperScissors\obj\Debug\WindowsApplication1.Stats.resources
+C:\Users\Alan\Desktop\Allans Programming\Games Indev\RockPaperScissors\RockPaperScissors\obj\Debug\WindowsApplication1.Menu.resources

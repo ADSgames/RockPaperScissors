@@ -1,0 +1,11 @@
+C:\Documents and Settings\Alan\Desktop\Allans Programming\Visual Basic\RockPaperScissors\RockPaperScissors\bin\Release\RockPaperScissors.exe
+C:\Documents and Settings\Alan\Desktop\Allans Programming\Visual Basic\RockPaperScissors\RockPaperScissors\bin\Release\RockPaperScissors.pdb
+C:\Documents and Settings\Alan\Desktop\Allans Programming\Visual Basic\RockPaperScissors\RockPaperScissors\bin\Release\RockPaperScissors.xml
+C:\Documents and Settings\Alan\Desktop\Allans Programming\Visual Basic\RockPaperScissors\RockPaperScissors\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Alan\Desktop\Allans Programming\Visual Basic\RockPaperScissors\RockPaperScissors\obj\Release\WindowsApplication1.Form1.resources
+C:\Documents and Settings\Alan\Desktop\Allans Programming\Visual Basic\RockPaperScissors\RockPaperScissors\obj\Release\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Alan\Desktop\Allans Programming\Visual Basic\RockPaperScissors\RockPaperScissors\obj\Release\RockPaperScissors.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Alan\Desktop\Allans Programming\Visual Basic\RockPaperScissors\RockPaperScissors\obj\Release\RockPaperScissors.exe
+C:\Documents and Settings\Alan\Desktop\Allans Programming\Visual Basic\RockPaperScissors\RockPaperScissors\obj\Release\RockPaperScissors.xml
+C:\Documents and Settings\Alan\Desktop\Allans Programming\Visual Basic\RockPaperScissors\RockPaperScissors\obj\Release\RockPaperScissors.pdb
+C:\Documents and Settings\Alan\Desktop\Allans Programming\Visual Basic\RockPaperScissors\RockPaperScissors\bin\Release\RockPaperScissors.exe.config
